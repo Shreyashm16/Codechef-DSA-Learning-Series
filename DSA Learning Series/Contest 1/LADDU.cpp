@@ -24,7 +24,6 @@ int main() {
             }
             else if(s=="TOP_CONTRIBUTOR"){
                 tot+=300;
-                //cout << tot << endl;
             }
             else if(s=="BUG_FOUND"){
                 ll r;
