@@ -21,7 +21,6 @@ int main() {
                 else
                     r=0;
                 tot+=300+r;
-                //cout << tot << endl;
             }
             else if(s=="TOP_CONTRIBUTOR"){
                 tot+=300;
